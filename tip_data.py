@@ -1,12 +1,12 @@
 # int(integer)
 number = 5
-age = 14
+age = 10
 
 # float
 fnumber = 3.5
 
 # str(string)
-name = "tema"
+name = "Name"
 
 # bool
 status = True
